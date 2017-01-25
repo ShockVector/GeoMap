@@ -30,6 +30,31 @@
 			}
 			h1 {
 				text-decoration: underline;
+			}
+			ul {
+				    list-style-type: none;
+				    margin: 0;
+				    padding: 0;
+				    width: 200px;
+				    background-color: #f1f1f1;
+				}
+
+				li a {
+				    display: block;
+				    color: #000;
+				    padding: 8px 16px;
+				    text-decoration: none;
+				}
+
+				li a.active {
+				    background-color: #4CAF50;
+				    color: white;
+				}
+
+				li a:hover:not(.active) {
+				    background-color: #555;
+				    color: white;
+			}	
 		</style>
 
 	</head>
@@ -72,17 +97,17 @@
 
 		
 
-		<h2>Milestones</h2>
+		<ul>Milestones</ul>
+		
+		<li><a class="active" href="hello-world.html">Hello World</a></li>
 
-		<p><a href="hello-world.html">Hello World</a></p>
-
-		<p><a href="index.html">Milestone 2</a></p>
+		<li><a href="index.html">Milestone 2</a></li>
 
 		
 
-		<h2>Deep Dives</h2>
+		<ul>Deep Dives</ul>
 
-		<p><a href="">Deep Dive 1</a></p>
+		<li><a href="">Deep Dive 1</a></li>
 
 	</body>
 
