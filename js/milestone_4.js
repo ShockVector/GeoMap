@@ -9,6 +9,10 @@ function initialize() {
     "featureType": "administrative",
     "elementType": "geometry",
     "stylers": [
+  {
+    "featureType": "administrative",
+    "elementType": "geometry",
+    "stylers": [
       {
         "color": "#c49b6f"
       }
@@ -20,6 +24,18 @@ function initialize() {
     "stylers": [
       {
         "color": "#484848"
+      },
+      {
+        "visibility": "on"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.country",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#87786b"
       },
       {
         "visibility": "on"
@@ -54,7 +70,7 @@ function initialize() {
     "featureType": "landscape.man_made",
     "stylers": [
       {
-        "color": "#b7ac9b"
+        "color": "#bbb5ae"
       },
       {
         "visibility": "on"
