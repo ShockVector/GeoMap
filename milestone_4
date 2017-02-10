@@ -4,7 +4,7 @@
 	</head>
 	<body>
 		<h1>Milestone 4</h1>
-		<h2>My Custom Map Style</h2>
+		<h2>Custom Map of the United States</h2>
 		<div id="map_canvas"</div>
 		<script src="js/milestone_4.js"></script>
 		<script async defer
