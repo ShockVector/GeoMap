@@ -1,0 +1,14 @@
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="css/milestone_3.css">
+	</head>
+	<body>
+		<h1>Milestone 4</h1>
+		<h2>My Custom Map Style</h2>
+		<div id="map_canvas"</div>
+		<script src="js/milestone_4.js"></script>
+		<script async defer
+			src="https://maps.googleapis.com/maps/api/js?callback=initialize&key=AIzaSyAaL_lLLDuPQvvCDUAN0temtcj4MRvFTeA">
+		</script>
+	</body>
+</html>
