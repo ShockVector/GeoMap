@@ -1,0 +1,36 @@
+body 
+{
+    background-color: lightyellow;
+	background-image: url(http://lucaparis.com/wp-content/uploads/revslider/homepage1/compass-old.png), url(https://www.sketchuptextureclub.com/public/texture_d/0044-parchment-paper-texture-seamless-hr.jpg);
+	background-repeat: no-repeat, repeat;
+	background-position: bottom right, top left;
+	margin-left: 100px;
+	margin-top: 50px;
+}
+
+h1 {
+	font-weight:bolder;
+    text-shadow: 1px 1px #696969;
+	text-align: center
+}
+h3 {
+	font-size: x-large;
+	text-align: center;
+	}
+h4 {
+	font-size: medium;
+	text-align: center;
+	}
+	a:link, 
+	a:visited {
+		background-color: #b58942;
+		color: white;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+			}
+	a:hover {
+		background-color: brown;
+		color: #ffd700;
+			}

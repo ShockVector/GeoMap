@@ -1,0 +1,55 @@
+html { 
+	height: 100% }
+
+body { 
+	height: 100%; 
+	margin: 0px; 
+	padding: 0px; 
+    background-color: lightyellow;
+	background-image: url(https://www.sketchuptextureclub.com/public/texture_d/0044-parchment-paper-texture-seamless-hr.jpg);
+	background-repeat: repeat;
+	background-position: top left;
+	margin-left: 100px;
+	margin-top: 50px;
+	color: black;
+	text-align: center}
+	
+#map_canvas { 
+	width:80%; 
+	height:70%; 
+	margin-left:auto; 
+	margin-right: auto;
+	}
+	
+.infoBox { 
+	color:black }
+
+h1 {
+	font-weight:bolder;
+    text-shadow: 1px 1px #696969;
+	text-align: center
+}
+
+h3 {
+	border-bottom:
+	font-size: x-large;
+	text-align: center;
+	}
+h4 {
+	font-size: medium;
+	text-align: center;
+	}
+	
+	a:link, 
+	a:visited {
+		background-color: #b58942;
+		color: white;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+			}
+	a:hover {
+		background-color: brown;
+		color: #ffd700;
+			}
