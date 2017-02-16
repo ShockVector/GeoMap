@@ -53,3 +53,7 @@ h4 {
 		background-color: brown;
 		color: #ffd700;
 			}
+
+
+a[href^="https://maps.google.com/maps?"]{background-color: transparent !important}
+a[href^="https://www.google.com/intl/en-US_US/help/terms_maps.html"]{background-color: transparent !important}
