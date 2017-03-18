@@ -7,7 +7,7 @@ function initMap() {
 	var takadanobaba = new google.maps.LatLng(35.7134,139.7041);
 	var shimbashi = new google.maps.LatLng(35.6661,139.7584);
     var map = new google.maps.Map(document.getElementById('map_canvas'), {
-        center: {lat: 35.69, lng: 139.7017},
+        center: {lat: 35.6895, lng: 139.6917},
         zoom: 12,
 		mapTypeId: google.maps.MapTypeId.TERRAIN,
 		disableDefaultUI: true,
