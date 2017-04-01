@@ -50,8 +50,7 @@ p {
 		
 	}
 	
-	a:link, 
-	a:visited {
+a:link{
 		background-color: #b58942;
 		color: white;
 		padding: 14px 25px;
@@ -59,10 +58,40 @@ p {
 		text-decoration: none;
 		display: inline-block;
 			}
-	a:hover {
+a:visited {
+		background-color: #b58942;
+		color: lightyellow;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+			}
+a:hover {
 		background-color: brown;
 		color: #ffd700;
 			}
+			
+.button {
+		background-color: #b58942;
+		color: white;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+}
+.button:hover {
+		background-color: brown;
+		color: #ffd700;
+}
+.button:active {
+		background-color: #b58942;
+		color: white;
+		padding: 14px 25px;
+		text-align: center;
+		text-decoration: none;
+		display: inline-block;
+}
+
 a[href^="https://maps.google.com/maps?"]{background-color: transparent !important}
 a[href^="https://www.google.com/intl/en-US_US/help/terms_maps.html"]{background-color: transparent !important}
 a[href^="https://www.google.com/maps/@47.6062,-122.3321,200558m/data=!3m1!1e3!10m2!1e3!2e10!12b1?rapsrc=apiv3"]{background-color: transparent !important}
