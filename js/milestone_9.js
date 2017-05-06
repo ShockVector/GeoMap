@@ -3,10 +3,6 @@ var projection = ol.proj.get('EPSG:3857');
 var bp_fill_color = [0,204,255,153]
 var bp_line_color = [0,204,255,153]
 
-var bs_fill_color = [0,0,0,0]
-var bs_line_color = [0,0,0,0]
-
-
 var cyclecaveCoord = [-106.58,35.108881]
 var bikecoopCoord = [-106.621927,35.079465]
 var sandiacyclesCoord = [-106.515278,35.129491]
@@ -96,9 +92,6 @@ var Layer_Stamen_Labels = new ol.layer.Group({
             source: new ol.source.Stamen({layer: 'toner-labels'})
         })
     ],
-	view: new ol.View({
-		 extent: ol.proj.get("EPSG:3857").getExtent(-141.0019800197021,25.837059996654943,-66.88541567953746,69.64661461419676),
-	})
 });
 
 
@@ -109,7 +102,9 @@ var layeredMap = new ol.Map({
 	view: new ol.View({
 		center: ol.proj.fromLonLat([-106.61,35.11]),
 		zoom:12,
-		projection: projection
+		minZoom:11,
+		projection: projection,
+		extent: ol.proj.get("EPSG:3857").getExtent(-106.889403,34.757374,-106.308998,35.331618),
 		})
 	});
 
