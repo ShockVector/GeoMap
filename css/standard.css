@@ -9,8 +9,8 @@ body
 }
 
 .globe {
-  height: 700px;
-  width: 700px;
+  height: 300px;
+  width: 300px;
   background-color: #017FFE;
   border-radius: 50%;
     display: block;
@@ -46,6 +46,8 @@ h4 {
 			}
 /* Container holding the image and the text */
 .container {
+height: 300px;
+ width: 300px;
     position: relative;
     text-align: center;
     color: white;
