@@ -56,8 +56,8 @@ height: 1000px;
 /* Bottom left text */
 .bottom-left {
     position: absolute;
-    top: 40%;
-    left: 10%;
+    top: 750px;
+    left: 160px;
 }
 
 .mid-left {
