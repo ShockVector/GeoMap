@@ -8,6 +8,14 @@ body
 	margin-top: 50px;
 }
 
+.globe {
+  height: 125px;
+  width: 125px;
+  background-color: #017FFE;
+  border-radius: 50%;
+  display: inline-block;
+}
+
 h1 {
 	font-weight:bolder;
     text-shadow: 1px 1px #696969;
