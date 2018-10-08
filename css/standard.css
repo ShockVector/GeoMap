@@ -62,15 +62,15 @@ height: 1000px;
 
 .mid-left {
     position: absolute;
-    bottom: 503px;
-    left: 107px;
+    top: 500px;
+    left: 100px;
 }
 
 /* Top left text */
 .top-left {
     position: absolute;
-    top: 70%;
-    left: 15%;
+    top: 290px;
+    left: 220px;
 }
 
 /* Top right text */
