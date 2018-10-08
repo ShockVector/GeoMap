@@ -39,84 +39,57 @@ h4 {
 height: 1000px;
  width: 1000px;
     position: absolute;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
 }
 
-/* Bottom left text */
 .bottom-left {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 750px;
     left: 160px;
 }
 
 .mid-left {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 500px;
     left: 100px;
 }
 
-/* Top left text */
 .top-left {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 290px;
     left: 220px;
 }
 
-/* Top right text */
 .top-right {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 250px;
     left: 600px;
 }
 
 .mid-right {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 480px;
     left: 730px;
 }
 
-/* Bottom right text */
 .bottom-right {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 710px;
     left: 730px;
 }
 
-/* Centered text */
 .centered {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 530px;
     left: 400px;
 }
 
 .top {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 130px;
     left: 400px;
 }
 
 .bottom {
-    margin-left: auto;
-    margin-right: auto;
     position: absolute;
     top: 800px;
     left: 490px;
