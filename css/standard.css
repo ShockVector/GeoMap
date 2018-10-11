@@ -39,7 +39,7 @@ h4 {
 .tab {
     overflow: hidden;
     border: 1px solid #ccc;
-    background-color: #f1f1f1;
+    background-color: white;
 }
 
 .tabcontent {
@@ -54,7 +54,7 @@ h4 {
 
 /* Style the buttons that are used to open the tab content */
 .tab button {
-    background-color: white;
+    background-color: lightgrey;
     float: left;
     border: none;
     outline: none;
