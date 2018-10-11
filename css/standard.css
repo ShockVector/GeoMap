@@ -36,12 +36,6 @@ h4 {
 			}
 /* Container holding the image and the text */
 .container {
-height: 1000px;
- width: 1000px;
-    position: relative;
-}
-
-.center {
     display: block;
     margin-left: auto;
     margin-right: auto;
