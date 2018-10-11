@@ -6,7 +6,8 @@ body
 	background-position: bottom right, top left;
 	margin-left: 100px;
 	margin-top: 50px;
-
+}
+	
 h1 {
 	font-weight:bolder;
     text-shadow: 1px 1px #696969;
