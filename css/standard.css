@@ -23,7 +23,7 @@ h4 {
 	}
 	a:link, 
 	a:visited {
-		background-color: #027114;
+		background-color: #b58942;
 		color: white;
 		padding: 14px 25px;
 		text-align: center;
@@ -31,8 +31,8 @@ h4 {
 		display: inline-block;
 			}
 	a:hover {
-		background-color: green;
-		color: white;
+		background-color: brown;
+		color: #ffd700;
 			}
 /* Container holding the image and the text */
 .container {
