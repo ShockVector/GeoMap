@@ -1,12 +1,11 @@
 body 
 {
-    background-color: lightblue;
-	background-image: url(), url();
+    background-color: lightyellow;
+	background-image: url(http://lucaparis.com/wp-content/uploads/revslider/homepage1/compass-old.png), url(https://www.sketchuptextureclub.com/public/texture_d/0044-parchment-paper-texture-seamless-hr.jpg);
 	background-repeat: no-repeat, repeat;
 	background-position: bottom right, top left;
 	margin-left: 100px;
 	margin-top: 50px;
-}
 
 h1 {
 	font-weight:bolder;
