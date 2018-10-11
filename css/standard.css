@@ -37,7 +37,7 @@ h4 {
 /* Container holding the image and the text */
 .container {
     position: absolute;
-    left: 700px;
+    left: 500px;
     top: 100px;
     z-index: -1;
 }
