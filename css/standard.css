@@ -42,7 +42,7 @@ a:link,
 .container {
     position: relative;
     left: 400px;
-    top: -300px;
+    bottom: 320px;
 }
 
 .bottom-left {
