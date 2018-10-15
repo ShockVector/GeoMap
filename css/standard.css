@@ -46,7 +46,7 @@ a:link,
 }
 
 .bottom-left {
-    position: relative;
+    position: absolute;
     top: 525px;
     left: 100px;
 }
