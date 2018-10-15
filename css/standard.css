@@ -53,14 +53,14 @@ h4 {
 
 .mid-left {
     position: absolute;
-    top: 500px;
+    top: 350px;
     left: 100px;
 }
 
 .top-left {
     position: absolute;
     top: 185px;
-    left: 555px;
+    left: 180px;
 }
 
 .top-right {
@@ -95,6 +95,6 @@ h4 {
 
 .bottom {
     position: absolute;
-    top: 380px;
-    left: 620px;
+    top: 620px;
+    left: 380px;
 }
