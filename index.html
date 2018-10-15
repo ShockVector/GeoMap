@@ -16,20 +16,10 @@
 					<a href="ethics.html">Ethics</a>
 					<a href="gia.html">Geography in Action</a>
 					</h4>
-<!-- Tab links -->
-<div class="tab">
-  <button class="tablinks" onclick="openCity(event, 'geography')">Geography</button>
-  <button class="tablinks" onclick="openCity(event, 'Subfields')">Subfields</button>
-  <button class="tablinks" onclick="openCity(event, 'Pictures')">Pictures</button>
-</div>
 
-<!-- Tab content -->
-<div id="geograpy" class="tabcontent">
   <h3>Geography</h3>
   <p>Description of geography.</p>
-</div>
-
-<div id="Subfields" class="tabcontent">
+		
   <h3>Subfields</h3>
 	<ul>
 	<h2>Class Subfield Directory</h2>
@@ -44,11 +34,6 @@
 		<li>Psychology</li>
 		<li>Sustainability</li>
 	</ul>
-</div>
-
-<div id="Pictures" class="tabcontent">
-  <p>Put pictures here.</p>
-</div>
 
 <div class="container">
   <img src="https://raw.githubusercontent.com/ShockVector/GeoMap/master/Pictures/Globe.png" alt="Globe" float: left;>
@@ -62,26 +47,4 @@
   <div class="bottom">Bottom</div>
   <div class="centered">Centered</div>
 </div>
-<script>
-function openCity(evt, cityName) {
-    // Declare all variables
-    var i, tabcontent, tablinks;
-
-    // Get all elements with class="tabcontent" and hide them
-    tabcontent = document.getElementsByClassName("tabcontent");
-    for (i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
-    }
-
-    // Get all elements with class="tablinks" and remove the class "active"
-    tablinks = document.getElementsByClassName("tablinks");
-    for (i = 0; i < tablinks.length; i++) {
-        tablinks[i].className = tablinks[i].className.replace(" active", "");
-    }
-
-    // Show the current tab, and add an "active" class to the button that opened the tab
-    document.getElementById(cityName).style.display = "block";
-    evt.currentTarget.className += " active";
-}
-</script>
 </html>
