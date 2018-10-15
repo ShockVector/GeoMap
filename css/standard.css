@@ -41,8 +41,8 @@ a:link,
 /* Container holding the image and the text */
 .container {
     position: relative;
-    left: 200px;
-    top: -50px;
+    left: 400px;
+    top: -500px;
 }
 
 .bottom-left {
