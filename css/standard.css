@@ -42,7 +42,6 @@ h4 {
     position: absolute;
     left: 530px;
     top: 200px;
-    z-index: -1;
 }
 
 .bottom-left {
