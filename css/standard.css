@@ -46,9 +46,9 @@ a:link,
 }
 
 .bottom-left {
-    position: absolute;
-    top: 480px;
-    left: 120px;
+    position: relative;
+    top: 525px;
+    left: 100px;
 }
 
 .mid-left {
