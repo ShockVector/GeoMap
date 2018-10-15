@@ -49,12 +49,13 @@ h4 {
     position: absolute;
     top: 550px;
     left: 160px;
-		background-color: #b58942;
+		background-color: ForestGreen ;
 		color: white;
 		padding: 14px 25px;
 		text-align: center;
 		text-decoration: none;
 		display: inline-block;
+		border-radius: 12px;
 }
 
 .mid-left {
