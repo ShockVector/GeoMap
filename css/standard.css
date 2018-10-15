@@ -4,6 +4,8 @@ body
 	background-image: url(https://www.sketchuptextureclub.com/public/texture_d/0044-parchment-paper-texture-seamless-hr.jpg);
 	background-repeat: repeat;
 	background-position: top left;
+	margin-left: 100px;
+	margin-top: 50px;
 }
 	
 h1 {
