@@ -21,22 +21,20 @@ h4 {
 	font-size: medium;
 	text-align: center;
 	}
+
 a:link, 
 	a:visited {
-		background-color: ForestGreen ;
+		background-color: #b58942;
 		color: white;
 		padding: 14px 25px;
 		text-align: center;
 		text-decoration: none;
 		display: inline-block;
-		border-radius: 12px;
 			}
 	a:hover {
-		background-color: green;
-		color: white;
+		background-color: brown;
+		color: #ffd700;
 			}
-
-
 
 /* Container holding the image and the text */
 .container {
