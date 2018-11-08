@@ -38,11 +38,11 @@ a:link,
 
 /* Container holding the image and the text */
 .container {
-    height: 600px;
-    width: 600px;
+    height: 1000px;
+    width: 1000px;
     position: absolute;
-    left: 1042px;
-    bottom: 332px;
+    left: 942px;
+    bottom: 132px;
 }
 
 .bottom-left {
