@@ -40,7 +40,7 @@ a:link,
 .container {
     height: 600px;
     width: 600px;
-    position: relative;
+    position: absolute;
     left: 400px;
     bottom: 60px;
 }
