@@ -38,10 +38,10 @@ a:link,
 
 /* Container holding the image and the text */
 .container {
-    height: 400px;
-    width: 400px;
+    height: 600px;
+    width: 600px;
     position: absolute;
-    left: 690px;
+    left: 390px;
     bottom: 640px;
 }
 
