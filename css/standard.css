@@ -89,12 +89,12 @@ a:link,
 
 .top {
     position: absolute;
-    top: 55px;
+    top: 45px;
     left: 375px;
 }
 
 .bottom {
     position: absolute;
-    top: 595px;
+    top: 585px;
     left: 330px;
 }
