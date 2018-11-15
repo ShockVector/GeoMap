@@ -53,7 +53,7 @@ a:link,
 
 .mid-left {
     position: absolute;
-    top: 350px;
+    top: 345px;
     left: 160px;
 }
 
@@ -71,7 +71,7 @@ a:link,
 
 .mid-right {
     position: absolute;
-    top: 350px;
+    top: 345px;
     left: 575px;
 }
 
@@ -95,6 +95,6 @@ a:link,
 
 .bottom {
     position: absolute;
-    top: 620px;
-    left: 340px;
+    top: 630px;
+    left: 335px;
 }
