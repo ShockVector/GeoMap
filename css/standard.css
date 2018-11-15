@@ -90,11 +90,11 @@ a:link,
 .top {
     position: absolute;
     top: 40px;
-    left: 340px;
+    left: 350px;
 }
 
 .bottom {
     position: absolute;
-    top: 630px;
+    top: 650px;
     left: 335px;
 }
